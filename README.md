@@ -2,7 +2,7 @@
 
 # Hi there, I'm Pau Mena Torres 👋
 
-I'm a passionate software engineer who loves building things that make a difference. I specialize in full-stack development, automation, and data science. I'm always learning and growing, and I enjoy collaborating with others to create great products.
+I'm a Junior Game Developer with experience in C++ , Unity, Maya, ZBrush and more. Passionate about creating immersive games, with strong skills in 3D modeling, game mechanics, and problem-solving. Eager to contribute to creative projects and continue growing in the game development industry.
 
 ## 🔧 Skills and Technologies
 
@@ -32,10 +32,10 @@ I'm a passionate software engineer who loves building things that make a differe
     <a href="https://www.instagram.com/paumt128" target="_blank" style="border: none;">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="border: none;">
     </a>
-    <a href="https://twitter.com/tu_usuario" target="_blank" style="border: none;">
+    <a href="https://twitter.com/Mena__04" target="_blank" style="border: none;">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter" style="border: none;">
     </a>
-    <a href="https://www.artstation.com/tu_usuario" target="_blank" style="border: none;">
+    <a href="https://www.artstation.com/paumt128" target="_blank" style="border: none;">
         <img src="https://img.shields.io/badge/ArtStation-%233C3C3C.svg?&style=flat-square&logo=artstation&logoColor=white" alt="ArtStation" style="border: none;">
     </a>
 </div>
