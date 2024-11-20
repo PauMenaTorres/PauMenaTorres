@@ -1,16 +1,44 @@
-## Hi there 👋
+![bannerGithub](https://github.com/user-attachments/assets/c157b95c-6fd4-4b78-9ece-7e2e0344428f)
 
-<!--
-**PauMenaTorres/PauMenaTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Pau Mena Torres 👋
 
-Here are some ideas to get you started:
+I'm a passionate software engineer who loves building things that make a difference. I specialize in full-stack development, automation, and data science. I'm always learning and growing, and I enjoy collaborating with others to create great products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills and Technologies
+
+- **Languages**: C++, C, C#, Python
+- **DevOps & Tools**: Git, VSCode
+
+## 📈 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=PauMenaTorres&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical" alt="Pau Mena Torres' GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauMenaTorres&layout=compact&hide_border=true&theme=radical" alt="Top Languages">
+</div>
+
+## 🌱 I’m currently learning
+
+- Videogames Developing
+- AI for Videogames Developing
+- Mobile Developing
+- 3D Designer
+
+## 🤝 Connect with me
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/pau-mena-torres-a884232a0" target="_blank" style="border: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none;">
+    </a>
+    <a href="https://www.instagram.com/paumt128" target="_blank" style="border: none;">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="border: none;">
+    </a>
+    <a href="https://twitter.com/tu_usuario" target="_blank" style="border: none;">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter" style="border: none;">
+    </a>
+    <a href="https://www.artstation.com/tu_usuario" target="_blank" style="border: none;">
+        <img src="https://img.shields.io/badge/ArtStation-%233C3C3C.svg?&style=flat-square&logo=artstation&logoColor=white" alt="ArtStation" style="border: none;">
+    </a>
+</div>
+
+
+
