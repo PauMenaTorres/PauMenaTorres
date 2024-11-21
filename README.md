@@ -5,6 +5,56 @@
 
 I'm a Junior Game Developer with experience in C++ , Unity, Maya, ZBrush and more. Passionate about creating immersive games, with strong skills in 3D modeling, game mechanics, and problem-solving. Eager to contribute to creative projects and continue growing in the game development industry.
 
+## 🎮 Featured Projects
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Project Name</th>
+      <th align="center">Description</th>
+      <th align="center">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>Furious Bald</strong></td>
+      <td align="center">A 2D platformer game developed using SDL2, showcasing game mechanics and level design.</td>
+      <td align="center">
+        <a href="https://github.com/ClaseAltaGames/DDV_Platformer_SDL_Game" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-%2312100E.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Oh My Ghost</strong></td>
+      <td align="center">A fun and engaging game developed by DumBell Games featuring unique ghostly gameplay.</td>
+      <td align="center">
+        <a href="https://github.com/DumBell-Games/Oh-my-ghost" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-%2312100E.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Arkanoid</strong></td>
+      <td align="center">A mobile adaptation of the classic Arkanoid game, built using Unity and mobile development techniques.</td>
+      <td align="center">
+        <a href="https://github.com/CITM-MOBILE-DEVICES-TERRASSA/Arkanoid_PauMenaTorres" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-%2312100E.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Panic Bomber C++</strong></td>
+      <td align="center">A C++ adaptation of the Bomberman Panic Bomber game from Neo Geo, developed with custom mechanics.</td>
+      <td align="center">
+        <a href="https://github.com/GoForce-Games/Projecte-1" target="_blank">
+          <img src="https://img.shields.io/badge/Repo-%2312100E.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub Repository" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ## 🔧 Skills and Technologies
