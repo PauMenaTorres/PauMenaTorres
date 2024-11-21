@@ -44,7 +44,7 @@ I'm a Junior Game Developer with experience in C++ , Unity, Maya, ZBrush and mor
       </td>
     </tr>
     <tr>
-      <td align="center"><strong>Panic Bomber</strong></td>
+      <td align="center"><strong>Bomberman: Panic Bomber</strong></td>
       <td align="center">A C++ adaptation of the Bomberman Panic Bomber game from Neo Geo, developed with custom mechanics.</td>
       <td align="center">
         <a href="https://github.com/GoForce-Games/Projecte-1" target="_blank">
