@@ -9,12 +9,48 @@ I'm a Junior Game Developer with experience in C++ , Unity, Maya, ZBrush and mor
 - **Languages**: C++, C, C#, Python
 - **DevOps & Tools**: Git, VSCode
 
-## 📈 GitHub Stats
+<!--Github stats Table-->
+## 📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/PauMenaTorres">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=PauMenaTorres&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/PauMenaTorres">
+          <img align="center" src="https://streak-stats.demolab.com?user=PauMenaTorres&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Most Used Languages</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Solaris-Group/SolarisEngine">
+          <!--<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=PauMenaTorres&repo=SolarisEngine&theme=nightowl&show_owner=true" alt="Cryptos Project" /> -->
+          <img align="center" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauMenaTorres&hide_progress=false&layout=compact&theme=nightowl" alt="Most Used Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/PauMenaTorres">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=PauMenaTorres&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PauMenaTorres&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical" alt="Pau Mena Torres' GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauMenaTorres&layout=compact&hide_border=true&theme=radical" alt="Top Languages">
-</div>
 
 ## 🌱 I’m currently learning
 
